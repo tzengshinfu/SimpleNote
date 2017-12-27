@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SimpleNote</string>
+    <string name="todo">待辦</string>
+    <string name="complete">完成</string>
+    <string name="delete">刪除</string>
+    <string name="restore">取回</string>
+    <string name="seq">seq</string>
+    <string name="record_second">record_second</string>
+    <string name="content">content</string>
+    <string name="color_index">color_index</string>
+    <string name="completed">已完成</string>
+    <string name="deleted">deleted</string>
+    <string name="format_illegal">格式不符!應為yyyy-mm-dd</string>
+    <string name="system_fault">系統異常,請連繫開發者</string>
+    <string name="developer_email">tzengshinfu@gmail.com</string>
+    <string name="crash_log_file">crash log file</string>
+    <string name="enter_something">[在此輸入記事內容]</string>
+    <string name="tip">提醒</string>
+    <string name="confirmDeletedExpiredCompletedNote">有超過[expiredPeriodDay]天已完成記事,是否刪除?</string>
+    <string name="confirm">確定</string>
+    <string name="cancel">取消</string>
+    <string name="expiredCompletedNoteDeleted">過期記事已刪除</string>
+</resources>
